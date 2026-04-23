@@ -1,4 +1,4 @@
-# AI-Based Smart Environment Safety Monitoring System
+# AI-Based Smart Environment Safety Monitoring System Hardware
 
 ## Overview
 A real-time IoT safety monitoring system using Raspberry Pi Pico W and multiple sensors to detect environmental risks such as gas leakage, motion detection, abnormal temperature/humidity, and low light conditions.
